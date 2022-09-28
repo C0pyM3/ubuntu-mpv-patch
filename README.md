@@ -1,5 +1,5 @@
 # ubuntu-mpv-patch
-Simple shell script to fix Ubuntu's mpv problem with computer freezing and crashing while using.
+Simple shell script to fix Ubuntu's mpv problem with computer freezing and crashing while playing videos using youtube-dl.
 
 # HOW TO RUN THE PATCH:
 1. Install dependencies:
